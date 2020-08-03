@@ -9,4 +9,5 @@ int main()
     gun.number = 5;
     std::cout << "Gun Number: " << gun.getNumber() << std::endl;
     return 0;
+    
 }
